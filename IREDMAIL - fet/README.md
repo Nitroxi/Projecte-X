@@ -151,9 +151,7 @@ El resultat ha sigut un missatge de retorn del sistema. Gmail ha rebutjat el cor
 
 ![img](img/img27.png)
 
-Això vol dir que la IP del servidor no estava autoritzada per enviar correu directament als servidors de Gmail. En un entorn de laboratori això és bastant normal.
-
-**Jo ací posaria com a explicació** que el servidor funciona, però no és un servidor públic real d'Internet i per això Gmail el rebutja.
+Això vol dir que la IP del servidor no estava autoritzada per enviar correu directament als servidors de Gmail.
 
 ---
 
